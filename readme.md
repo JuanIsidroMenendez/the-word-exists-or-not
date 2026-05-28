@@ -2,12 +2,10 @@ Ejercicio de JavaScript, cuyo objeto es el desarrollo de una función que determ
 
 Algoritmo:
 
-1. Recibir un texto.
-2. Convertir el texto en minúsculas.
-3. Buscar si el texto contiene la palabra "english".
-4.
-A. Si la contiene, devolver "true".
-B. Si no la contiene, devolver "false".
+1.  Recibir un texto.
+2.  Convertir el texto en minúsculas.
+3.  Buscar si el texto contiene la palabra "english".
+4. A: Si contiene la palabra, devolver "true". B: Si no la contiene, devolver "false".
 
 Test Vitest:
 
